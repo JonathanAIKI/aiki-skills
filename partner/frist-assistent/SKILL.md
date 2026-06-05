@@ -13,6 +13,7 @@ Når du skal planlegge perioden fremover og vil ha kontroll på alle frister sam
 ## Slik gjør du det
 1. Spør hvilke frister som gjelder, eller hvilken klient/oppgave det handler om, hvis det ikke er oppgitt.
 2. For kjente standardfrister (som norske MVA-terminer) kan du fylle inn riktige datoer selv. Bekreft alltid med brukeren.
+   Merk for MVA på alminnelig termin: hovedregelen er frist den 10. i andre måned etter terminslutt, men 3. termin (mai og juni) har utsatt frist til 31. august (sommerunntaket). 1. termin: 10. april, 2. termin: 10. juni, 3. termin: 31. august, 4. termin: 10. oktober, 5. termin: 10. desember, 6. termin: 10. februar.
 3. List opp alle relevante frister med dato, sortert kronologisk.
 4. For hver frist: sett en intern forberedelsesfrist med god margin (typisk 1 til 2 uker før).
 5. Lag en kort sjekkliste over hva som må være på plass før hver frist.
@@ -52,6 +53,7 @@ Påminnelser å legge inn:
 Bekreft gjerne at klienten er på alminnelige terminer og ikke årstermin eller månedstermin, da endrer datoene seg."
 
 ## Tips og fallgruver
+- Husk sommerunntaket: 3. MVA-termin (mai og juni) har frist 31. august, ikke 10. august som hovedregelen skulle tilsi.
 - Sjekk alltid termintypen. Et foretak kan ha alminnelig termin (annenhver måned), årstermin (under 1 mill. i omsetning) eller månedstermin. Datoene blir helt forskjellige.
 - Innleveringsfrist for MVA er normalt den 10. i andre måned etter terminslutt. 1. og 2. termin har egne frister tidlig på året, så bekreft hvilke terminer det gjelder.
 - Faller en frist på helg eller helligdag, flyttes den vanligvis til neste virkedag. Nevn dette der det er aktuelt.

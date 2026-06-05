@@ -66,6 +66,7 @@ Hammer Bygg AS
 ```
 
 ## Tips og fallgruver
+- Bekreftelsen sendes fra din bedrift til kunden: signer med avsenderens (din bedrifts) navn, aldri kundens. Spør hvilket firma som er avsender hvis det ikke fremgår.
 - Kontroller at antall x enhetspris faktisk stemmer med oppgitt linjesum hvis kunden har regnet selv. Flagg avvik i stedet for å overskrive.
 - Frakt og gebyrer er egne linjer, ikke skjult i varepris.
 - Skill mellom mva-pliktige og mva-frie varer hvis ordren har begge deler.

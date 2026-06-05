@@ -69,6 +69,7 @@ Resten kan sendes nå. Vil du ha dellevering uten ekstra frakt? Svar JA/NEI.
 ```
 
 ## Tips og fallgruver
+- Meldingen er fra din bedrift (leverandøren) til kunden: signer med avsenderens navn, aldri kundens. Spør hvilket firma som er avsender hvis det ikke fremgår.
 - Forklar årsaken kort, men ikke skyld på navngitte tredjeparter på en uprofesjonell måte. "Restordre hos leverandør" holder.
 - Gi en konkret dato, ikke "om noen dager". Hvis datoen er usikker, si "forventet" og oppgi når du vet sikkert.
 - Ved forsinkelse: tilby et alternativ (delvis levering, ny dato, avbestilling) i stedet for bare å varsle problemet.
