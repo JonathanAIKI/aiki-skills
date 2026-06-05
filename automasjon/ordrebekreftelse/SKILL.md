@@ -36,7 +36,7 @@ Ferdig ordrebekreftelse i ren tekst, klar til å lime inn i e-post:
 
 ## Eksempel
 Input:
-"Kunde: Hammer Bygg AS, kontakt Lars Vik. Bestilte 40 sekk betong B30 a 89 kr, 12 stk armeringsnett a 245 kr, 1 frakt a 650 kr. Leveres 12. juni. Vår ref O-2041."
+"Kunde: Hammer Bygg AS, kontakt Lars Vik. Bestilte 40 sekk betong B30 a 89 kr, 12 stk armeringsnett a 245 kr, 1 frakt a 650 kr. Leveres 12. juni. Vår ref O-2041. Avsender: Byggvare Direkte AS."
 
 Output:
 ```
@@ -62,7 +62,7 @@ Levering: 12.06.2026 til avtalt adresse.
 Betalingsbetingelser: 14 dager netto.
 
 Takk for bestillingen. Ta kontakt ved spørsmål.
-Hammer Bygg AS
+Byggvare Direkte AS
 ```
 
 ## Tips og fallgruver

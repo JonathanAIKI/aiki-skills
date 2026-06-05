@@ -36,7 +36,7 @@ Ferdig kundemelding i ren tekst:
 
 ## Eksempel
 Input:
-"Forsinkelse på ordre O-774 til Berg Mekaniske. To av fire hydraulikkslanger er på restordre fra leverandør. Resten kan sendes nå, slangene kommer ca. 18. juni. Vil de ha dellevering?"
+"Forsinkelse på ordre O-774 til Berg Mekaniske. To av fire hydraulikkslanger er på restordre fra leverandør. Resten kan sendes nå, slangene kommer ca. 18. juni. Vil de ha dellevering? Vi er Slange og Hydraulikk AS."
 
 Output:
 ```
@@ -59,7 +59,7 @@ Vi ordner det som passer best for dere.
 Spørsmål? Svar på denne e-posten eller ring oss.
 
 Vennlig hilsen
-Berg Mekaniske-teamet
+Slange og Hydraulikk AS
 ```
 
 SMS-variant:
