@@ -12,6 +12,18 @@ git clone https://github.com/JonathanAIKI/aiki-skills ~/.claude/skills/aiki
 
 Restart Claude Code, kjør `/skills`, og pakken er klar til bruk.
 
+### Bruker du Claude Cowork, claude.ai eller Claude Desktop?
+
+Last ned pakkene som ZIP i stedet, ingen terminal nødvendig:
+
+- [Automasjon-pakken (ZIP)](https://aiki-losninger.vercel.app/skills/downloads/aiki-automasjon-skills.zip)
+- [Kundeservice-pakken (ZIP)](https://aiki-losninger.vercel.app/skills/downloads/aiki-kundeservice-skills.zip)
+- [Partner-pakken (ZIP)](https://aiki-losninger.vercel.app/skills/downloads/aiki-partner-skills.zip)
+
+1. Last ned og pakk ut ZIP-en. Hver mappe er én skill.
+2. I Cowork: legg mappene inn i skills-området ditt. I claude.ai eller Claude Desktop: gå til Innstillinger, Capabilities, Skills og last opp skillen.
+3. Be Claude bruke skillen, for eksempel: bruk tilbud-generator.
+
 ## Pakkene
 
 ### Automasjon
